@@ -3,7 +3,6 @@
 /Dockerfile
 /images
 /labels
-/main.py
 /models
 /yolov5
 /__pycache__
